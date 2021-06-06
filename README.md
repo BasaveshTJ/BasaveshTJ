@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
+I'm Basavesh T J !
+
+<i>Currently<i>: CS student at SIT at Tumkur.
 <!--
 **BasaveshTJ/BasaveshTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
